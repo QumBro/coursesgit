@@ -1,0 +1,33 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+.button-element{
+    height: 220px;
+    width: 350px;
+    padding: 15px 10px 20px;
+    margin: 0 0 30px;
+    border: 2px dashed #ff0000;
+    background-color: #008000;
+}
+
+.text-container{
+    width: 40%;
+    margin: 5px;
+}
+
+.img-html{
+    float: left;
+    margin: 0 10px 5px 0;
+}
+
+.img-logo{
+    float: right;
+    margin: 10px 0 10px 5px;
+}
+
+.text-ipsum{
+    margin: -15px 0 0 0;
+}
